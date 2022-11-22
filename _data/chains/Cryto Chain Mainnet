@@ -1,0 +1,26 @@
+{
+  "name": "Cryto Mainnet",
+  "chainId": 424,
+  "shortName": "cryto",
+  "chain": "CRYTO",
+  "networkId": 424,
+  "nativeCurrency": {
+    "name": "CRYTO",
+    "symbol": "CRYTO",
+    "decimals": 18
+  },
+  "rpc": ["https://chain.cryto.technology"],
+  "infoURL": "https://cryto.co.com/",
+  "explorers": [
+    {
+      "name": "CrytoScan",
+      "url": "https://crytoscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://crytoscan.com",
+      "standard": "none"
+    }
+  ]
+}
